@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E4310B6214509140075DA06 /* TestGit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4310B5214509140075DA06 /* TestGit.swift */; };
 		0E5453282144ECF000C933CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5453272144ECF000C933CD /* AppDelegate.swift */; };
 		0E54532A2144ECF000C933CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E5453292144ECF000C933CD /* ViewController.swift */; };
 		0E54532D2144ECF000C933CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E54532B2144ECF000C933CD /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E4310B5214509140075DA06 /* TestGit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestGit.swift; sourceTree = "<group>"; };
 		0E5453242144ECF000C933CD /* bamaze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bamaze.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E5453272144ECF000C933CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0E5453292144ECF000C933CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0E5453332144ECF000C933CD /* LaunchScreen.storyboard */,
 				0E5453362144ECF000C933CD /* Info.plist */,
 				0E54532E2144ECF000C933CD /* bamaze.xcdatamodeld */,
+				0E4310B5214509140075DA06 /* TestGit.swift */,
 			);
 			path = bamaze;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E4310B6214509140075DA06 /* TestGit.swift in Sources */,
 				0E54532A2144ECF000C933CD /* ViewController.swift in Sources */,
 				0E5453282144ECF000C933CD /* AppDelegate.swift in Sources */,
 				0E5453302144ECF000C933CD /* bamaze.xcdatamodeld in Sources */,
@@ -291,6 +295,7 @@
 				0E54533B2144ECF000C933CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
